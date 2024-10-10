@@ -1,0 +1,27 @@
+body{ 
+font-family:arial;
+font-size: 15px;
+cor:blue;
+background-color: yellow;
+}
+header{
+border: 3px solid red;
+background-color: green; 
+border-radius: 30px;
+｝
+#Logo{
+width:80px;
+border-radius:50%;
+}
+#img{
+width: 300px;
+border-radius:20px;
+｝
+p{
+font-size: 18px; 
+border-radius: 20px;
+｝
+div{
+backgroend-color: purple; 
+border: 5px dotted orange; 
+border-padius: 20 px;
